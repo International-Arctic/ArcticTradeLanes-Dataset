@@ -1,0 +1,51 @@
+tanker_id,vessel_name,owner_operator,country,ice_class,deadweight_tonnage,cargo_type,length_m,beam_m,draft_m,year_built,typical_arctic_route,annual_arctic_voyages,charter_rate_usd_per_day,insurance_premium_multiplier
+ARC-TNK-001,Christophe de Margerie,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,42,120000-180000,1.8
+ARC-TNK-002,Boris Vilkitsky,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,38,120000-180000,1.8
+ARC-TNK-003,Fedor Litke,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,40,120000-180000,1.8
+ARC-TNK-004,Georgiy Ushakov,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,45,120000-180000,1.8
+ARC-TNK-005,Yakov Gakkel,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,44,120000-180000,1.8
+ARC-TNK-006,Vladimir Voronin,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,42,120000-180000,1.8
+ARC-TNK-007,Georgiy Sedov,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,43,120000-180000,1.8
+ARC-TNK-008,Yermak,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2020,Sabetta-Europe/Asia,41,120000-180000,1.8
+ARC-TNK-009,Vladimir Rusanov,Dynagas (Novatek charter),Greece,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Asia,38,115000-175000,1.9
+ARC-TNK-010,Ob River,Dynagas (Novatek charter),Greece,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Asia,36,115000-175000,1.9
+ARC-TNK-011,Eduard Toll,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe,35,110000-170000,1.9
+ARC-TNK-012,Rudolf Samoylovich,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe,34,110000-170000,1.9
+ARC-TNK-013,Nikolay Yevgenov,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,37,110000-170000,1.9
+ARC-TNK-014,Nikolay Zubov,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,38,110000-170000,1.9
+ARC-TNK-015,Vladimir Tikhonov,MOL (Novatek charter),Japan,Arc7,96800,LNG,299.0,50.0,12.0,2021,Sabetta-Asia,32,120000-180000,1.8
+ARC-TNK-016,Arc7 LNG Carrier-016,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2024,Arctic LNG 2,15,125000-190000,1.9
+ARC-TNK-017,Arc7 LNG Carrier-017,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2025,Arctic LNG 2,8,125000-190000,1.9
+ARC-TNK-018,Arc7 LNG Carrier-018,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2025,Arctic LNG 2,5,125000-190000,1.9
+ARC-TNK-019,Arc7 LNG Carrier-019,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2026,NULL,0,125000-190000,2.0
+ARC-TNK-020,Arc7 LNG Carrier-020,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2026,NULL,0,125000-190000,2.0
+ARC-TNK-021,Arc7 LNG Carrier-021,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2026,NULL,0,125000-190000,2.0
+ARC-TNK-022,Nordic Barents,NORDEN,Danish,Arc4,75000,General Cargo,200.0,32.0,10.5,2010,Murmansk-Asia,28,45000-75000,1.5
+ARC-TNK-023,Nordic Bothnia,NORDEN,Danish,Arc4,75000,General Cargo,200.0,32.0,10.5,2011,Murmansk-Europe,26,45000-75000,1.5
+ARC-TNK-024,Nordic Odin,NORDEN,Danish,Arc4,75000,General Cargo,200.0,32.0,10.5,2011,Arctic Routes,25,45000-75000,1.5
+ARC-TNK-025,Nordic Olympic,NORDEN,Danish,Arc4,75000,General Cargo,200.0,32.0,10.5,2012,Arctic Routes,24,45000-75000,1.5
+ARC-TNK-026,Stena Polaris,Stena Bulk,Sweden,Arc4,65000,Oil Products,183.0,32.0,11.0,2010,Barents Sea Routes,22,55000-85000,1.5
+ARC-TNK-027,Stena Arctica,Stena Bulk,Sweden,Arc4,65000,Oil Products,183.0,32.0,11.0,2011,Barents Sea Routes,20,55000-85000,1.5
+ARC-TNK-028,Uikku,Neste Oil,Finland,Arc4,16000,Oil Products,140.0,21.0,7.5,1977,Baltic and Arctic,18,35000-55000,1.6
+ARC-TNK-029,Lunni,Neste Oil,Finland,Arc4,16000,Oil Products,140.0,21.0,7.5,1978,Baltic and Arctic,16,35000-55000,1.6
+ARC-TNK-030,Seival,Varo Energy,Switzerland,Arc4,17000,Oil Products,145.0,22.0,7.8,2006,Baltic and Arctic,14,38000-60000,1.5
+ARC-TNK-031,Thun Liverpool,Erik Thun AB,Sweden,Arc4,16500,Oil Products,144.0,21.5,7.6,2007,Baltic and Arctic,15,38000-60000,1.5
+ARC-TNK-032,Thun London,Erik Thun AB,Sweden,Arc4,16500,Oil Products,144.0,21.5,7.6,2008,Baltic and Arctic,14,38000-60000,1.5
+ARC-TNK-033,Prospero,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2000,Baltic and Arctic,12,42000-68000,1.4
+ARC-TNK-034,Transpaper,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2001,Baltic and Arctic,11,42000-68000,1.4
+ARC-TNK-035,Timca,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2003,Baltic and Arctic,13,42000-68000,1.4
+ARC-TNK-036,Afina,Grieg Star,Norway,Arc5,55000,Bulk Carrier,190.0,30.0,10.0,2012,Norwegian Sea and Arctic,19,50000-80000,1.5
+ARC-TNK-037,Bulknes,Grieg Star,Norway,Arc5,55000,Bulk Carrier,190.0,30.0,10.0,2013,Norwegian Sea and Arctic,18,50000-80000,1.5
+ARC-TNK-038,Bona Safir,Solstad Shipping,Norway,Arc4,8500,Offshore Supply,85.0,18.0,6.5,2008,Barents Sea Offshore,25,38000-62000,1.6
+ARC-TNK-039,Bona Sapphire,Solstad Shipping,Norway,Arc4,9200,Offshore Supply,90.0,19.0,6.8,2009,Barents Sea Offshore,24,38000-62000,1.6
+ARC-TNK-040,Far Senator,Farstad Shipping,Norway,Arc4,4800,Offshore Supply,80.0,17.0,6.0,2007,Norwegian Sea and Arctic,22,35000-58000,1.6
+ARC-TNK-041,Far Statesman,Farstad Shipping,Norway,Arc4,4800,Offshore Supply,80.0,17.0,6.0,2007,Norwegian Sea and Arctic,21,35000-58000,1.6
+ARC-TNK-042,UT 755 Arctic,Atlantic Offshore,Norway,Arc4,5500,Offshore Supply,82.0,17.5,6.2,2010,Arctic Offshore Support,20,36000-60000,1.6
+ARC-TNK-043,UT 755 Ice,Atlantic Offshore,Norway,Arc4,5500,Offshore Supply,82.0,17.5,6.2,2011,Arctic Offshore Support,19,36000-60000,1.6
+ARC-TNK-044,Viktor Chernomyrdin,Rosmorport,Russia,Arc5,22000,Research/Supply,95.0,22.0,7.5,2020,Arctic Research,28,55000-85000,1.7
+ARC-TNK-045,Severny Polyus,Norilsk Nickel,Russia,Arc4,15000,General Cargo/Nickel,140.0,21.0,7.8,2008,Yenisei River-Dudinka,32,48000-75000,1.5
+ARC-TNK-046,Monchegorsk,Norilsk Nickel,Russia,Arc4,15000,General Cargo/Nickel,140.0,21.0,7.8,2007,Yenisei River-Dudinka,35,48000-75000,1.5
+ARC-TNK-047,Pechenga,Norilsk Nickel,Russia,Arc4,15000,General Cargo/Nickel,140.0,21.0,7.8,2009,Yenisei River-Dudinka,31,48000-75000,1.5
+ARC-TNK-048,Norilsk Nickel (vessel),Norilsk Nickel,Russia,Arc4,14000,General Cargo/Nickel,138.0,20.5,7.6,2006,Yenisei River-Dudinka,34,45000-72000,1.5
+ARC-TNK-049,Arctic Express Container,NewNew Shipping,China,Arc4,35000,Containers,200.0,28.0,9.5,2022,NSR Container Service,18,55000-90000,1.6
+ARC-TNK-050,Arctic Express Logistics,NewNew Shipping,China,Arc4,35000,Containers,200.0,28.0,9.5,2023,NSR Container Service,15,55000-90000,1.6

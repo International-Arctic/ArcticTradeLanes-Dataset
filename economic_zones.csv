@@ -1,0 +1,51 @@
+zone_id,zone_name,country,area_sq_km,fishing_rights_regime,mineral_rights_regime,oil_gas_blocks,environmental_regulations,licensing_authority
+ARC-EEZ-001,Norwegian Economic Zone,Norway,2000000,Exclusive (EEZ),Exclusive (Seabed Authority),50+ blocks under concession,Strict MARPOL/Polar Code compliance,Norwegian Petroleum Directorate/Ministry of Trade
+ARC-EEZ-002,Svalbard Fisheries Protection Zone,Norway,1400000,Regulated (Spitsbergen Treaty),Disputed (Norway administers),No active licensing,Strict conservation measures,Norwegian Directorate of Fisheries
+ARC-EEZ-003,Greenland Exclusive Economic Zone,Greenland/Denmark,2300000,Exclusive (EEZ),Exclusive (Self-government),Active licensing rounds,Self-government environmental laws,Greenland Bureau of Minerals and Petroleum
+ARC-EEZ-004,Iceland Exclusive Economic Zone,Iceland,750000,Exclusive (EEZ),Exclusive (Seabed Authority),Exploration licenses issued,Icelandic Environmental Agency,Icelandic National Energy Authority
+ARC-EEZ-005,Faroe Islands Fisheries Zone,Faroe Islands/Denmark,250000,Exclusive (Fisheries),Limited,No active oil/gas,EU/Faroe agreements,Faroe Marine Research Institute
+ARC-EEZ-006,Russian Economic Zone - Barents Sea,Russia,1400000,Exclusive (EEZ),Exclusive (Rosnedra),100+ active blocks,Russian environmental regulations,Rosnedra/Ministry of Natural Resources
+ARC-EEZ-007,Russian Economic Zone - Kara Sea,Russia,880000,Exclusive (EEZ),Exclusive (Rosnedra),50+ active blocks,Yamal LNG environmental monitoring,Rosnedra/Ministry of Natural Resources
+ARC-EEZ-008,Russian Economic Zone - Laptev Sea,Russia,650000,Exclusive (EEZ),Exclusive (Rosnedra),Limited exploration,Arctic nature reserves,Rosnedra/Ministry of Natural Resources
+ARC-EEZ-009,Russian Economic Zone - East Siberian Sea,Russia,930000,Exclusive (EEZ),Exclusive (Rosnedra),Limited exploration,Strict conservation zones,Rosnedra/Ministry of Natural Resources
+ARC-EEZ-010,Russian Economic Zone - Chukchi Sea,Russia,480000,Exclusive (EEZ),Exclusive (Rosnedra),20+ exploration blocks,Chukotka special regulations,Rosnedra/Ministry of Natural Resources
+ARC-EEZ-011,Canadian Arctic Economic Zone,Canada,3000000,Exclusive (EEZ),Exclusive (NRCan),Beaufort Sea active,Nunavut Impact Review Board,Natural Resources Canada/NEB
+ARC-EEZ-012,Canadian Beaufort Sea Zone,Canada,450000,Exclusive (EEZ),Exclusive (NRCan),Active licensing suspended,Joint management with Inuvialuit,Inuvialuit Settlement Region
+ARC-EEZ-013,United States Arctic Economic Zone,USA,800000,Exclusive (EEZ),Exclusive (MMS/BOEM),Chukchi/Beaufort active blocks,NEPA compliance required,Bureau of Ocean Energy Management
+ARC-EEZ-014,Alaska Outer Continental Shelf,USA,450000,Federal management,Federal (BOEM),Cook Inlet/Chukchi active,Alaska-specific regulations,BOEM Alaska Region
+ARC-EEZ-015,Finnish Economic Zone,Baltic/Arctic,80000,Exclusive (EEU),Limited,No active licensing,Baltic Sea regulations,Finnish Environment Institute
+ARC-EEZ-016,Swedish Economic Zone,Baltic/Arctic,160000,Exclusive (EEZ),Limited,No active licensing,Baltic Sea regulations,Swedish Environmental Protection Agency
+ARC-EEZ-017,Spitsbergen Treaty Zone,Svalbard,61000,Equal access (all parties),Norwegian administration,No mineral extraction allowed,Strict environmental protection,Governor of Svalbard
+ARC-EEZ-018,Franz Josef Land Nature Reserve,Russia,16000,Restricted,No extraction,No licensing,Strict federal protection,Russian Federal Service
+ARC-EEZ-019,Novaya Zemlya Nature Reserve,Russia,85000,Restricted,No extraction,No licensing,Nuclear test site restrictions,Russian Ministry of Defense
+ARC-EEZ-020,Wrangel Island Nature Reserve,Russia,22000,Restricted,No extraction,No licensing,UNESCO World Heritage protection,Wrangel Island Reserve Administration
+ARC-EEZ-021,Northeast Greenland National Park,Greenland,972000,Traditional use only,No extraction,No licensing,Largest national park protection,Greenland Self-Government
+ARC-EEZ-022,Nunavut Settlement Region,Canada,2000000,Co-management,Co-management,Impact benefit agreements,Nunavut Wildlife Management Board,Nunavut Tunngavik Inc.
+ARC-EEZ-023,Inuvialuit Settlement Region,Canada,90000,Co-management,Co-management,Beaufort Sea agreements,Inuvialuit Final Agreement,Inuvialuit Regional Corporation
+ARC-EEZ-024,Central Arctic Ocean Fisheries Agreement Zone,International,2800000,Regulated moratorium (16 years),N/A,N/A,Science-based management,CAOFA Signatories
+ARC-EEZ-025,Arctic Council PAME Shipping Zones,International,Arctic Ocean,Voluntary guidelines,Varies by zone,N/A,Polar Code mandatory,IMO/PAME Working Group
+ARC-EEZ-026,Barents Sea Loophole (High Seas),International,67000,Regulated (NEAFC),International Seabed Authority,N/A,Regional management,NEAFC/ISA
+ARC-EEZ-027,Central Arctic Ocean (High Seas),International,2800000,Fishing moratorium,International Seabed Authority,N/A,CAOFA restrictions,UN/ISA
+ARC-EEZ-028,Norwegian Sea - Arctic Waters,Norway/Iceland,1200000,EEZ boundaries,Continental shelf claims,Active Norwegian licensing,Norwegian Sea regulations,Joint commissions
+ARC-EEZ-029,Barents Sea Grey Zone,Norway/Russia,175000,Joint management,Joint management,Active cooperation,Barents Sea agreements,Joint Norwegian-Russian Commission
+ARC-EEZ-030,Lincoln Sea High Arctic,Canada/Denmark,350000,Disputed boundaries,Continental shelf submissions,N/A,Hans Island resolved,Pending delimitation
+ARC-EEZ-031,Beaufort Sea Maritime Boundary,Canada/USA,21000,Disputed boundaries,Continental shelf claims,N/A,Ongoing negotiations,Bilateral discussions
+ARC-EEZ-032,Chukchi Sea Boundary,Russia/USA,15000,EEZ boundary agreed,Extended shelf cooperation,Limited,US-Russia agreements,Bilateral commission
+ARC-EEZ-033,Bering Strait Zone,Russia/USA,45000,Joint management,Joint management,N/A,Bering Sea agreements,Bilateral commission
+ARC-EEZ-034,Baffin Bay Zone,Canada/Greenland,180000,EEZ boundaries,Continental shelf cooperation,N/A,Joint management,Joint commissions
+ARC-EEZ-035,Canadian Arctic Archipelago Internal Waters,Canada,1400000,Exclusive,Exclusive,No active offshore,Internal waters claim,Canadian Government
+ARC-EEZ-036,Northern Sea Route Waters,Russia,6000000,Regulated access,State control,State licensing,NSR environmental regulations,Rosatom/Ministry of Transport
+ARC-EEZ-037,Northwest Passage Waters,Canada,1200000,Regulated access,State control,N/A,Canadian Arctic Waters Pollution Prevention Act,Canadian Government
+ARC-EEZ-038,Kara Gate Transit Zone,Russia,15000,International strait rights,State control,Active Yamal LNG,NSR regulations,Rosatom
+ARC-EEZ-039,Yugorsky Shar Transit Zone,Russia,12000,International strait rights,State control,Active shipping,NSR regulations,Rosatom
+ARC-EEZ-040,Long Strait Transit Zone,Russia/USA,8000,International strait rights,Joint interest,N/A,International navigation,International Law
+ARC-EEZ-041,Dmitry Laptev Strait,Russia,6000,Internal waters claim,State control,N/A,NSR regulations,Rosatom
+ARC-EEZ-042,Sannikov Strait,Russia,8000,Internal waters claim,State control,N/A,NSR regulations,Rosatom
+ARC-EEZ-043,Prince of Wales Strait,Canada,12000,Internal waters claim,State control,N/A,Canadian regulations,Canadian Coast Guard
+ARC-EEZ-044,McClure Strait,Canada,18000,Internal waters claim,State control,N/A,Canadian regulations,Canadian Coast Guard
+ARC-EEZ-045,Parry Channel,Canada,25000,Internal waters claim,State control,N/A,Canadian regulations,Canadian Coast Guard
+ARC-EEZ-046,Hudson Bay and Strait,Canada,1200000,Exclusive,Exclusive,No active offshore,Canadian environmental law,Canadian Government
+ARC-EEZ-047,Foxe Basin,Canada,280000,Exclusive,Exclusive,No active offshore,Conservation area,Federal/Provincial
+ARC-EEZ-048,Davis Strait,Canada/Greenland,650000,EEZ boundaries,Continental shelf cooperation,N/A,Joint research,Joint commissions
+ARC-EEZ-049,Danish Strait,Greenland/Iceland,95000,International strait rights,EEZ boundaries,N/A,International navigation,International Law
+ARC-EEZ-050,Nares Strait,Canada/Greenland,95000,Internal waters claim/EEZ,Disputed,No active offshore,Bilateral management,Joint Commission

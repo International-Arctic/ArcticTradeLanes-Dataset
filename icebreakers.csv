@@ -1,0 +1,56 @@
+icebreaker_id,vessel_name,owner_operator,country,ice_class,power_kw,length_m,beam_m,draft_m,year_built,service_speed_kn,operational_range_nm,primary_service_route,charter_rate_usd_per_day,availability_months
+ARC-ICE-001,NS Arktika,Atomflot,Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2020,22,75000,NSR Western and Eastern,350000-500000,Year-round
+ARC-ICE-002,NS Sibir,Atomflot,Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2021,22,75000,NSR Western and Eastern,350000-500000,Year-round
+ARC-ICE-003,NS Ural,Atomflot,Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2022,22,75000,NSR Full Transit,350000-500000,Year-round
+ARC-ICE-004,NS Yakutia,Atomflot,Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2024,22,75000,NSR Eastern Section,350000-500000,Year-round
+ARC-ICE-005,NS Rossiya (Project 10510 Leader),Atomflot,Russia,Arc9/Polar Class 1,120000,209.0,47.7,13.0,2028,24,85000,Arctic High Latitudes,NULL,Year-round (planned)
+ARC-ICE-006,Taymyr,Atomflot,Russia,Arc9/Polar Class 1,35000,151.8,29.2,9.0,1987,18.5,65000,Yenisei River and Western NSR,280000-400000,Year-round
+ARC-ICE-007,Vaygach,Atomflot,Russia,Arc9/Polar Class 1,35000,149.7,29.2,9.0,1990,18.5,65000,Ob Bay and Western NSR,280000-400000,Year-round
+ARC-ICE-008,50 Let Pobedy,Atomflot,Russia,Arc9/Polar Class 1,55000,159.6,30.0,11.0,2007,21,70000,High Arctic Expeditions,320000-450000,Year-round
+ARC-ICE-009,Yamal,Atomflot,Russia,Arc9/Polar Class 1,55000,150.0,30.0,11.0,1992,20.6,68000,NSR and Tourism,280000-400000,Year-round
+ARC-ICE-010,Ob,FSUE Rosmorport,Russia,Arc7,25700,142.0,27.8,8.7,2019,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-011,Novorossiysk,FSUE Rosmorport,Russia,Arc7,25700,142.0,27.8,8.7,2019,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-012,Vladivostok,FSUE Rosmorport,Russia,Arc7,25700,142.0,27.8,8.7,2019,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-013,Murmansk,FSUE Rosmorport,Russia,Arc7,25700,142.0,27.8,8.7,2020,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-014,Ilya Muromets,Northern Fleet,Russia,Arc7,6400,95.0,22.0,7.0,2017,15,28000,Coastal and River Operations,80000-120000,Year-round
+ARC-ICE-015,Yevpaty Kolovrat,Northern Fleet,Russia,Arc7,6400,95.0,22.0,7.0,2018,15,28000,Coastal and River Operations,80000-120000,Year-round
+ARC-ICE-016,CCGS Louis S. St-Laurent,Canadian Coast Guard,Canada,Polar Class 2,20000,119.8,24.4,9.9,1969,16,42000,Northwest Passage and Eastern Arctic,180000-280000,Year-round
+ARC-ICE-017,CCGS Terry Fox,Canadian Coast Guard,Canada,Polar Class 2,17500,88.0,24.0,8.3,1983,16,35000,Northwest Passage and Hudson Bay,150000-220000,Year-round
+ARC-ICE-018,CCGS Henry Larsen,Canadian Coast Guard,Canada,Polar Class 3,12900,98.0,19.8,7.2,1987,16,28000,Eastern Arctic and Newfoundland,120000-180000,Year-round
+ARC-ICE-019,CCGS Des Groseilliers,Canadian Coast Guard,Canada,Polar Class 3,12900,98.0,19.8,7.2,1982,16,28000,Eastern Arctic and St. Lawrence,120000-180000,Year-round
+ARC-ICE-020,CCGS Pierre Radisson,Canadian Coast Guard,Canada,Polar Class 3,12900,98.0,19.8,7.2,1978,16,28000,St. Lawrence and Eastern Arctic,120000-180000,Year-round
+ARC-ICE-021,CCGS Amundsen,Canadian Coast Guard,Canada,Polar Class 3,12000,98.0,19.5,7.2,1979,16,25000,Research and Arctic Operations,110000-160000,Year-round
+ARC-ICE-022,CCGS John A. Macdonald (Polar Icebreaker),Canadian Coast Guard,Canada,Polar Class 2,26000,150.0,28.0,10.5,2030,18,55000,Arctic Operations,NULL,Year-round (planned)
+ARC-ICE-023,USCGC Polar Star,US Coast Guard,USA,Polar Class 1,45000,122.0,25.5,9.4,1976,18,35000,Antarctic and Arctic Operations,200000-300000,Year-round
+ARC-ICE-024,USCGC Polar Sea,US Coast Guard,USA,Polar Class 1,45000,122.0,25.5,9.4,1977,18,35000,Arctic Operations (currently inactive),NULL,NULL
+ARC-ICE-025,USCGC Healy,US Coast Guard,USA,Polar Class 2,22000,128.0,25.0,8.9,1999,17,40000,Arctic Research and Operations,150000-220000,Year-round
+ARC-ICE-026,USCGC Mackinaw,US Coast Guard,USA,Arc4,12500,73.0,18.0,6.5,2005,14,18000,Great Lakes and Coastal,85000-120000,Year-round
+ARC-ICE-027,Polaris,Arctia Oy,Finland,Arc4,19000,110.0,24.0,8.0,2016,16,20000,Baltic Sea and Gulf of Bothnia,95000-140000,Year-round
+ARC-ICE-028,Voima,Arctia Oy,Finland,Arc4,10500,83.5,19.4,6.5,1954,14,12000,Baltic Sea (port operations),65000-95000,Year-round
+ARC-ICE-029,Urho,Arctia Oy,Finland,Arc4,15700,104.6,23.8,7.5,1975,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
+ARC-ICE-030,Sisu,Arctia Oy,Finland,Arc4,15700,104.6,23.8,7.5,1976,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
+ARC-ICE-031,Otso,Arctia Oy,Finland,Arc4,15700,99.1,24.2,8.0,1986,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
+ARC-ICE-032,Kontio,Arctia Oy,Finland,Arc4,15700,99.1,24.2,8.0,1987,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
+ARC-ICE-033,Oden,Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,Arctic Research and Operations,120000-180000,Year-round
+ARC-ICE-034,Atle,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1974,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
+ARC-ICE-035,Ymer,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1977,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
+ARC-ICE-036,Ale,Swedish Maritime Administration,Sweden,Arc4,10500,81.0,19.0,6.5,1973,14,15000,Coastal and Port Operations,65000-95000,Year-round
+ARC-ICE-037,KV Svalbard,Norwegian Coast Guard,Norway,Polar Class 3,9000,103.7,19.1,6.5,2002,16.5,25000,Svalbard and Barents Sea,85000-130000,Year-round
+ARC-ICE-038,MSV Nordica,Arctia Oy (Finnish),Finland,Arc4,15700,116.0,26.0,8.4,1994,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
+ARC-ICE-039,MSV Fennica,Arctia Oy (Finnish),Finland,Arc4,15700,116.0,26.0,8.4,1993,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
+ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,China,Polar Class 3,15000,122.5,22.3,8.3,2019,15,35000,Antarctic and Arctic Research,95000-150000,Year-round
+ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Polar Class 3,13200,167.0,22.6,8.0,1993,17,38000,Antarctic and Arctic Research,85000-130000,Year-round
+ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,Polar Class 2,13200,117.9,25.0,10.5,1982,15,35000,Arctic and Antarctic Research,90000-140000,Year-round
+ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,Arctic Research,120000-180000,Year-round
+ARC-ICE-044,Kapitan Khlebnikov,Quark Expeditions,Russia,Arc4,14700,123.0,26.0,8.5,1981,14,28000,Tourism and Expedition,180000-280000,May-Sept
+ARC-ICE-045,Kapitan Dranitsyn,Atomflot (charter),Russia,Arc5,13600,122.9,26.0,8.5,1980,15,30000,Tourism and Support,150000-220000,May-Oct
+ARC-ICE-046,I/B Tor Viking II,Viking Supply Ships,Sweden,Arc4,14700,93.0,20.0,7.5,2000,15,20000,Baltic and North Sea Operations,95000-140000,Year-round
+ARC-ICE-047,I/B Balder Viking,Viking Supply Ships,Sweden,Arc4,14700,93.0,20.0,7.5,2000,15,20000,Baltic and North Sea Operations,95000-140000,Year-round
+ARC-ICE-048,I/B Vidar Viking,Viking Supply Ships,Sweden,Arc4,14700,93.0,20.0,7.5,2001,15,20000,Baltic and North Sea Operations,95000-140000,Year-round
+ARC-ICE-049,Nathaniel B. Palmer,Lockheed Martin (for NSF),USA,Polar Class 4,9500,94.0,18.2,7.0,1992,14,28000,Antarctic and Arctic Research,85000-130000,Year-round
+ARC-ICE-050,Sikuliaq,University of Alaska,USA,Arc4,4500,80.0,15.8,5.7,2014,14,18000,Arctic Research,60000-95000,Year-round
+ARC-ICE-051,NS Chukotka,Atomflot (Rosatom),Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2026,22,Unlimited (nuclear),NSR full transit (Arctic high latitudes),350000-500000,Year-round
+ARC-ICE-052,MS Stark,Kirkenes Havn KF (Port of Kirkenes),Norway,Harbor/port icebreaker (no official class),unknown,unknown,unknown,unknown,pre-2024 (acquired 2024),unknown,900,Kirkenes harbour icebreaking and towing (Sor-Varanger),n/a (hourly hire),Year-round
+ARC-ICE-053,New Swedish Generation Icebreaker (HD Hyundai HHI-built; name TBD),Swedish Maritime Administration (Sjofartsverket),Sweden,Polar Class 4 (PC4) - 1.0-1.2 m continuous ice,unknown (diesel-electric propulsion),126,unknown,unknown,2029 (planned delivery),unknown,unknown,Baltic Sea and Gulf of Bothnia,n/a (government-owned),Winter ice season (planned; year-round Baltic ops)
+ARC-ICE-054,NS Leningrad,Atomflot (Rosatom),Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2028,22,Unlimited (nuclear),NSR full transit (Arctic high-latitude year-round; laid down Jan 2024 at Baltic Shipyard; Putin attended ceremony),N/A (state nuclear fleet),Year-round (under construction)
+ARC-ICE-055,NS Stalingrad,Atomflot (Rosatom),Russia,Arc9/Polar Class 1,60000,173.3,34.0,10.5,2030,22,Unlimited (nuclear),"NSR full transit (Arctic high-latitude year-round; laid down 2025, planned delivery ~2030)",N/A (state nuclear fleet),Year-round (under construction)

@@ -1,0 +1,51 @@
+marine_id,organization_name,country,service_type,services_offered,fleet_size,icebreaker_count,salvage_capacity,search_rescue_coverage,contact_info
+ARC-MAR-001,Atomflot (Federal State Unitary Enterprise),Russia,Nuclear Icebreaker Operator,"Icebreaker escort,Search and rescue,Emergency towing,Salvage",7,7 (nuclear),High,Full NSR coverage,www.atomflot.ru / +7 495 719 7000
+ARC-MAR-002,Rosmorport (Federal Agency),Russia,Maritime Infrastructure,"Icebreaker services,Port pilotage,Hydrographic services,Navigation safety",25,8 (diesel),Medium,Russian Arctic coast,www.rosmorport.ru / +7 495 626 1100
+ARC-MAR-003,Russian Navy - Northern Fleet,Russia,Military/Security,"Naval operations,Arctic defense,Ice reconnaissance,Emergency response",150+,3 (ice-capable),High,High Arctic/Russian sector,Classified / Ministry of Defense
+ARC-MAR-004,Marine Rescue Service (Morspas),Russia,Search and Rescue,"SAR operations,Medical evacuation,Oil spill response,Firefighting",45,2,High,All Russian Arctic waters,www.morspas.ru / +7 495 626 1415
+ARC-MAR-005,Northern Shipping Company,Russia,Commercial Shipping,"Cargo transport,Ice-class vessel operation,Arctic logistics",85,0,Low (chartered),NSR and Barents Sea,www.severnoye.ru / +7 8182 218 800
+ARC-MAR-006,Canadian Coast Guard,Canada,Coast Guard/Search Rescue,"Icebreaking,SAR,Environmental response,Aids to navigation",119,8 (icebreakers),High,Canadian Arctic waters,www.ccg-gcc.gc.ca / +1 800 265 0237
+ARC-MAR-007,United States Coast Guard,USA,Coast Guard/Security,"Icebreaking,SAR,Port security,Environmental protection",240,3 (icebreakers),High,Alaskan Arctic waters,www.uscg.mil / +1 202 372 4000
+ARC-MAR-008,Norwegian Coast Guard,Norway,Coast Guard/Security,"Fishery protection,SAR,Ice monitoring,Border control",35,1 (KV Svalbard),Medium,Norwegian EEZ and Svalbard,www.kystverket.no / +47 33 03 4800
+ARC-MAR-009,Joint Rescue Coordination Centre Northern Norway,Norway,SAR Coordination,"SAR coordination,Aeronautical and maritime rescue",N/A,N/A,N/A,Norwegian Arctic/Barents Sea,jrccnn@hovedredningssentralen.no / +47 75 55 9000
+ARC-MAR-010,Arctia Oy,Finland,Commercial Icebreaking,"Icebreaking services,Oil spill response,Channel maintenance",9,9 (icebreakers),Medium,Baltic Sea/Arctic charter,www.arctia.fi / +358 20 448 81
+ARC-MAR-011,Swedish Maritime Administration,Sweden,Maritime Authority,"Icebreaking,Pilotage,Traffic management,Hydrography",12,4 (icebreakers),Medium,Swedish waters/Baltic Sea,www.sjofartsverket.se / +46 771 630 680
+ARC-MAR-012,Swedish Coast Guard,Sweden,Coast Guard,"Environmental protection,Fishery control,SAR",26,0,Medium,Swedish EEZ,www.kustbevakningen.se / +46 77 158 0000
+ARC-MAR-013,Marine Rescue Coordination Centre Reykjavik,Iceland,SAR Coordination,"Maritime SAR,Aeronautical rescue coordination",N/A,N/A,N/A,Icelandic waters/Greenland Sea,www.lhg.is / +354 545 2000
+ARC-MAR-014,Greenland Police/Arctic Command,Greenland/Greenland,Security/SAR,"Police authority,SAR coordination,Fishery inspection",15,0,Low,Greenland waters,www.politi.gl / +299 36 3400
+ARC-MAR-015,Joint Arctic Command,Denmark/Greenland,Military/Security,"Arctic surveillance,SAR support,Fishery inspection",12,0,Medium,Greenland/Faroe waters,www2.forsvaret.dk / +45 728 19000
+ARC-MAR-016,Royal Arctic Line,Greenland,Commercial Shipping,"Cargo transport,Passenger service,Port operations",12,0,Low,Greenland coastal waters,www.ral.gl / +299 70 1500
+ARC-MAR-017,Faroe Islands Search and Rescue,Faroe Islands,SAR Coordination,Maritime and aeronautical SAR,N/A,N/A,N/A,Faroe Islands waters,www.hfs.fo / +298 355 555
+ARC-MAR-018,Finnish Border Guard,Finland,Border/Maritime Security,"Border control,SAR,Environmental protection",55,0,Medium,Gulf of Bothnia/Baltic Sea,www.raja.fi / +358 295 420 000
+ARC-MAR-019,Arctic Council PAME,International (8 states),Policy/Coordination,"Arctic marine protection,Shipping safety standards,Environmental protection",N/A,N/A,N/A,Arctic Council states,www.pame.is / pame@pame.is
+ARC-MAR-020,International Maritime Organization (IMO),International,Regulatory Body,"Polar Code implementation,Shipping safety regulations,Environmental standards",N/A,N/A,N/A,Global (Arctic applicable),www.imo.org / info@imo.org
+ARC-MAR-021,World Meteorological Organization - Arctic,International,Scientific/Meteorological,"Weather forecasting,Ice charts,Climate monitoring",N/A,N/A,N/A,Arctic region,www.wmo.int / wmo@wmo.int
+ARC-MAR-022,International Ice Patrol,USA/International,Marine Safety,Iceberg monitoring and warning,N/A,N/A,N/A,North Atlantic (Arctic ice),www.navcen.uscg.gov / +1 401 435 8285
+ARC-MAR-023,National Ice Center (US),USA,Ice Monitoring,"Operational ice analysis,Arctic ice charts",N/A,N/A,N/A,Global (Arctic focus),www.natice.noaa.gov / ncep.list.sischat@noaa.gov
+ARC-MAR-024,Canadian Ice Service,Canada,Ice Monitoring,"Sea ice analysis,Forecasts,Climatology",N/A,N/A,N/A,Canadian waters,www.ec.gc.ca/glaces-ice / +1 819 997 2800
+ARC-MAR-025,Arctic and Antarctic Research Institute,Russia,Scientific/Operational,"Ice forecasting,Arctic research,Climate studies",N/A,N/A,N/A,Russian Arctic,aari.aq / +7 812 352 1231
+ARC-MAR-026,Danish Meteorological Institute - Arctic,Denmark,Scientific/Meteorological,"Ice charts,Weather forecasts,Climate data",N/A,N/A,N/A,Greenland/Iceland waters,www.dmi.dk / +45 39 15 7500
+ARC-MAR-027,Meteorological Service of Canada,Canada,Scientific/Meteorological,"Arctic weather,Ice forecasts,Climate monitoring",N/A,N/A,N/A,Canadian Arctic,weather.gc.ca / +1 800 244 8155
+ARC-MAR-028,Alaska Maritime Prevention and Response Network,USA,Industry Response Network,"Oil spill response,Marine safety",N/A,N/A,N/A,Alaska waters,www.alaskamprn.org / +1 907 375 2400
+ARC-MAR-029,Svalbard Governor's Office,Norway,Administration/Security,"Environmental protection,Search and rescue,Police authority",N/A,N/A,Medium,Svalbard archipelago,www.sysselmannen.no / +47 79 02 4300
+ARC-MAR-030,"Norwegian Clean Seas Association,NOFO",Norway,Oil Spill Response,Oil spill preparedness and response,N/A,N/A,High,Norwegian waters,www.nofo.no / +47 51 65 9300
+ARC-MAR-031,OSPAR Commission,International,Environmental Protection,"Marine environment protection,Oil spill cooperation",N/A,N/A,N/A,Northeast Atlantic (Arctic),www.ospar.org / secretariat@ospar.org
+ARC-MAR-032,Arctic Coast Guard Forum,International (8 states),Cooperation Forum,"SAR cooperation,Information sharing,Joint exercises",N/A,N/A,N/A,Arctic coastal states,Classified / Member nations
+ARC-MAR-033,Emergency Prevention Preparedness and Response (EPPR),Arctic Council,Working Group,"Emergency response coordination,Prevention measures",N/A,N/A,N/A,Arctic Council states,www.eppr.info / eppr@eppr.info
+ARC-MAR-034,Norwegian Oil and Gas Association,Norway,Industry Association,"Safety standards,Environmental compliance,Best practices",N/A,N/A,N/A,Norwegian Arctic,www.norskoljeoggass.no / +47 51 84 6500
+ARC-MAR-035,International Association of Classification Societies,International,Classification/Standards,"Ship classification,Polar Code certification,Arctic standards",N/A,N/A,N/A,Global,www.iacs.org.uk / info@iacs.org.uk
+ARC-MAR-036,Bureau Veritas (Arctic Services),France/International,Classification Society,"Ice-class certification,Arctic vessel inspection,Consulting",N/A,N/A,N/A,Global,www.bureauveritas.com / marine@bureauveritas.com
+ARC-MAR-037,DNV GL (Arctic Services),Norway/Germany,Classification Society,"Ice-class certification,Risk assessment,Arctic standards",N/A,N/A,N/A,Global,www.dnvgl.com / maritime@dnvgl.com
+ARC-MAR-038,Lloyd's Register (Arctic),UK/International,Classification Society,"Ice-class certification,Arctic vessel design approval",N/A,N/A,N/A,Global,www.lr.org / marine@lr.org
+ARC-MAR-039,Russian Maritime Register of Shipping,Russia,Classification Society,"Ice-class certification,Arctic vessel inspection",N/A,N/A,N/A,Russian Arctic,www.rs-head.spb.ru / mail@rs-head.spb.ru
+ARC-MAR-040,American Bureau of Shipping,USA,Classification Society,"Ice-class certification,Arctic vessel standards",N/A,N/A,N/A,Global (Arctic applicable),www.eagle.org / abs-worldhq@eagle.org
+ARC-MAR-041,International Tanker Owners Pollution Federation,International,Industry Association,"Oil spill response,Compensation,Technical advice",N/A,N/A,N/A,Global,www.itopf.org / info@itopf.com
+ARC-MAR-042,Oil Spill Response Limited,International,Response Organization,"Global oil spill response,Arctic capabilities",N/A,N/A,High,Global (Arctic charter),www.oilspillresponse.com / +44 20 8331 5555
+ARC-MAR-043,Greenland Oil Spill Response,Greenland,Response Organization,"Arctic oil spill response,Local capabilities",N/A,N/A,Medium,Greenland waters,www.bmp.gl / +299 34 6800
+ARC-MAR-044,Alaska Chadux Network,USA,Response Organization,"Oil spill response,Arctic capabilities",N/A,N/A,Medium,Alaska waters,www.chadux.com / +1 907 273 2200
+ARC-MAR-045,Sakhalin Energy Investment Company,Russia,Oil/Gas Operator,"Oil production,Arctic experience,SAR support",N/A,N/A,Medium,Sakhalin (Arctic experience),www.sakhalinenergy.ru / +7 4242 720 001
+ARC-MAR-046,ExxonMobil (Arctic Operations),USA,Oil/Gas Operator,"Arctic oil/gas development,SAR support",N/A,N/A,Medium,Alaska/Arctic,www.exxonmobil.com / +1 972 940 6000
+ARC-MAR-047,Shell (Arctic Operations),Netherlands/UK,Oil/Gas Operator,"Arctic oil/gas experience,Research support",N/A,N/A,Medium,Historical Alaska,www.shell.com / +31 70 377 9111
+ARC-BIZ-048,ConocoPhillips Alaska,USA,Oil/Gas Operator,"Alaska North Slope operations,Arctic expertise",N/A,N/A,Medium,Alaska Arctic,www.conocophillips.com / +1 281 293 1000
+ARC-MAR-049,Equinor (Arctic Operations),Norway,Oil/Gas Operator,"Barents Sea operations,Arctic expertise",N/A,N/A,High,Norwegian Arctic,www.equinor.com / +47 51 990 000
+ARC-MAR-050,TotalEnergies (Arctic LNG),France,Oil/Gas Operator,"Yamal LNG partner,Arctic LNG 2,Arctic experience",N/A,N/A,Medium,Russian Arctic (projects),www.totalenergies.com / +33 1 47 44 45 46
