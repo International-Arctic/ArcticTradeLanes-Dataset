@@ -19,7 +19,7 @@ ARC-PORT-017,Longyearbyen Port,ARC-CITY-018,Svalbard,78.2232,15.6267,NOLYR,9.0,4
 ARC-PORT-018,Bodo Port,ARC-CITY-019,Norway,67.2804,14.4049,NOBOO,12.5,14,3800000,None,120000,Yes,20000-52000,680,Bodo Havn,State-owned,,,
 ARC-PORT-019,Narvik Port,ARC-CITY-020,Norway,68.4385,17.4273,NONVK,18.5,16,25000000,Arc4-Arc5,280000,Yes,28000-72000,1450,Narvik Havn,State-owned,,,
 ARC-PORT-020,Churchill Port,ARC-CITY-021,Canada,58.7684,-94.1650,CACHV,9.5,6,8500000,Arc4,145000,Yes,25000-65000,165,Arctic Gateway Group,Private/Public Partnership,,,
-ARC-PORT-021,Iqaluit Deep Sea Port,ARC-CITY-022,Canada,63.7467,-68.5170,CAIqaluit,7.5,4,450000,Arc3,28000,Yes,18000-42000,55,Nunavut Sealink and Supply,State,,,
+ARC-PORT-021,Iqaluit Deep Sea Port,ARC-CITY-022,Canada,63.7467,-68.5170,CAIQL,7.5,4,450000,Arc3,28000,Yes,18000-42000,55,Nunavut Sealink and Supply,State,,,
 ARC-PORT-022,Tuktoyaktuk Port,ARC-CITY-033,Canada,69.4457,-133.0360,CATUK,6.5,3,280000,Arc3-Arc4,18000,Yes,12000-28000,32,Inuvialuit Regional Corporation,Indigenous,,,
 ARC-PORT-023,Valdez Marine Terminal,ARC-CITY-032,USA,61.1308,-146.3603,USVAD,20.0,4,75000000,None,850000,Yes,55000-125000,680,Alyeska Pipeline Service Company,Private,,,
 ARC-PORT-024,Prudhoe Bay Oil Terminal,ARC-CITY-029,USA,70.2554,-148.3816,USUUD,14.0,2,45000000,Arc4-Arc5,450000,Yes,35000-80000,245,BP/ConocoPhillips/ExxonMobil,Private,,,
