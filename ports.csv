@@ -10,14 +10,14 @@ ARC-PORT-008,Khatanga River Port,ARC-CITY-009,Russia,71.9800,102.4700,RUKHA,6.5,
 ARC-PORT-009,Nuuk Port,ARC-CITY-010,Greenland,64.1814,-51.6941,GLGOH,12.0,15,3500000,None,180000,Yes,20000-55000,380,Royal Arctic Line,State-owned,,,
 ARC-PORT-010,Sisimiut Port,ARC-CITY-011,Greenland,66.9395,-53.6734,GLJNS,10.0,8,1200000,None,65000,Yes,12000-32000,145,Royal Arctic Line,State-owned,,,
 ARC-PORT-011,Ilulissat Port,ARC-CITY-012,Greenland,69.2198,-51.0986,GLJAV,9.5,6,800000,None,45000,Yes,10000-28000,95,Royal Arctic Line,State-owned,,,
-ARC-PORT-012,Reykjavik Port,ARC-CITY-013,Iceland,64.1466,-21.9426,ISREY,13.0,22,6500000,None,280000,Yes,25000-70000,1250,Reykjavik Port Authority,State-owned,,,
+ARC-PORT-012,Reykjavik Port,ARC-CITY-013,Iceland,64.1564348,-21.8666787,ISREY,13.0,22,6500000,None,280000,Yes,25000-70000,1250,Reykjavik Port Authority,State-owned,OSM amenity=ferry_terminal Skarfabakki Sundahöfn (main Reykjavík cargo/harbour zone); densify off downtown centroid 2026-09-08 GIS loop,,2026-09-08
 ARC-PORT-013,Akureyri Port,ARC-CITY-014,Iceland,65.6826,-18.0907,ISAKU,10.5,12,2100000,None,85000,Yes,15000-38000,420,Akureyri Port Authority,State-owned,,,
-ARC-PORT-014,Tromso Port,ARC-CITY-015,Norway,69.6492,18.9553,NOTOS,11.0,18,4200000,Arc3-Arc4,165000,Yes,22000-58000,850,Troms Havn,State-owned,,,
-ARC-PORT-015,Kirkenes Port,ARC-CITY-016,Norway,69.7269,30.0456,NOKKN,10.5,8,2800000,Arc4-Arc5,95000,Yes,18000-45000,320,Kirkenes Havn KF (municipal enterprise; dissolving into Sor-Varanger kommune administration from 2027-01-01),State-owned,,,
-ARC-PORT-016,Hammerfest LNG Terminal,ARC-CITY-017,Norway,70.6634,23.6821,NOHFT,14.0,3,18000000,Arc4-Arc5,85000,Yes,45000-95000,185,Equinor,Private,,,
-ARC-PORT-017,Longyearbyen Port,ARC-CITY-018,Svalbard,78.2232,15.6267,NOLYR,9.0,4,650000,Arc3,22000,Yes,15000-35000,65,Longyearbyen Harbor,Municipal,,,
-ARC-PORT-018,Bodo Port,ARC-CITY-019,Norway,67.2804,14.4049,NOBOO,12.5,14,3800000,None,120000,Yes,20000-52000,680,Bodo Havn,State-owned,,,
-ARC-PORT-019,Narvik Port,ARC-CITY-020,Norway,68.4385,17.4273,NONVK,18.5,16,25000000,Arc4-Arc5,280000,Yes,28000-72000,1450,Narvik Havn,State-owned,,,
+ARC-PORT-014,Tromso Port,ARC-CITY-015,Norway,69.6507379,18.9649587,NOTOS,11.0,18,4200000,Arc3-Arc4,165000,Yes,22000-58000,850,Troms Havn,State-owned,OSM landuse=harbour Tromsø indre havn; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-015,Kirkenes Port,ARC-CITY-016,Norway,69.7278875,30.0717814,NOKKN,10.5,8,2800000,Arc4-Arc5,95000,Yes,18000-45000,320,Kirkenes Havn KF (municipal enterprise; dissolving into Sor-Varanger kommune administration from 2027-01-01),State-owned,OSM amenity=bus_station Kirkenes kai Kaiveien harbour; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-016,Hammerfest LNG Terminal,ARC-CITY-017,Norway,70.6869236,23.5981352,NOHFT,14.0,3,18000000,Arc4-Arc5,85000,Yes,45000-95000,185,Equinor,Private,OSM place=island Melkøya (Equinor Hammerfest LNG); densify off Hammerfest town centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-017,Longyearbyen Port,ARC-CITY-018,Svalbard,78.2292987,15.601367,NOLYR,9.0,4,650000,Arc3,22000,Yes,15000-35000,65,Longyearbyen Harbor,Municipal,OSM man_made=pier Longyearbyen Main Pier Bykaia; densify off town centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-018,Bodo Port,ARC-CITY-019,Norway,67.285142,14.3805101,NOBOO,12.5,14,3800000,None,120000,Yes,20000-52000,680,Bodo Havn,State-owned,OSM landuse=commercial Nertorget havn Bodø; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-019,Narvik Port,ARC-CITY-020,Norway,68.4294644,17.4239955,NONVK,18.5,16,25000000,Arc4-Arc5,280000,Yes,28000-72000,1450,Narvik Havn,State-owned,OSM historic memorial Narvik Havn / harbour waterfront; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
 ARC-PORT-020,Churchill Port,ARC-CITY-021,Canada,58.7684,-94.1650,CACHV,9.5,6,8500000,Arc4,145000,Yes,25000-65000,165,Arctic Gateway Group,Private/Public Partnership,,,
 ARC-PORT-021,Iqaluit Deep Sea Port,ARC-CITY-022,Canada,63.7467,-68.5170,CAIQL,7.5,4,450000,Arc3,28000,Yes,18000-42000,55,Nunavut Sealink and Supply,State,,,
 ARC-PORT-022,Tuktoyaktuk Port,ARC-CITY-033,Canada,69.4457,-133.0360,CATUK,6.5,3,280000,Arc3-Arc4,18000,Yes,12000-28000,32,Inuvialuit Regional Corporation,Indigenous,,,
@@ -26,8 +26,8 @@ ARC-PORT-024,Prudhoe Bay Oil Terminal,ARC-CITY-029,USA,70.2554,-148.3816,USUUD,1
 ARC-PORT-025,Port of Anchorage,ARC-CITY-030,USA,61.2387,-149.9076,USANC,13.5,5,6500000,Arc3,185000,Yes,28000-72000,420,Port of Anchorage,Municipal,,,
 ARC-PORT-026,Nome Harbor,ARC-CITY-034,USA,64.5011,-165.4064,USOME,7.5,3,320000,Arc3,15000,Yes,10000-25000,85,Nome Port Commission,Municipal,,,
 ARC-PORT-027,Kemi Port,ARC-CITY-036,Finland,65.7356,24.5636,FIKEM,10.5,8,4800000,Arc4,110000,Yes,18000-42000,385,Kemi Port Authority,State-owned,,,
-ARC-PORT-028,Oulu Port,ARC-CITY-037,Finland,65.0121,25.4651,FIOUL,11.5,12,6200000,Arc4-Arc5,165000,Yes,22000-55000,520,Oulu Port Authority,State-owned,,,
-ARC-PORT-029,Lulea Port,ARC-CITY-038,Sweden,65.5848,22.1567,SELLA,14.0,16,18000000,Arc4,280000,Yes,28000-68000,1420,Lulea Hamn,State-owned,,,
+ARC-PORT-028,Oulu Port,ARC-CITY-037,Finland,64.9959866,25.4052871,FIOUL,11.5,12,6200000,Arc4-Arc5,165000,Yes,22000-55000,520,Oulu Port Authority,State-owned,OSM landuse=industrial Oulun satama Nuottasaari; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
+ARC-PORT-029,Lulea Port,ARC-CITY-038,Sweden,65.5806088,22.1534831,SELLA,14.0,16,18000000,Arc4,280000,Yes,28000-68000,1420,Lulea Hamn,State-owned,OSM place=suburb Södra hamn Luleå; densify off city centroid 2026-09-08 GIS loop,,2026-09-08
 ARC-PORT-030,Kaliningrad Sea Port,ARC-CITY-040,Russia,54.7104,20.4522,RUKGD,13.5,42,22000000,None,650000,Yes,22000-60000,1850,Kaliningrad Sea Port,State,,,
 ARC-PORT-031,Lavna Coal Terminal,ARC-CITY-001,Russia,69.1500,33.4500,RULAV,16.0,4,25000000,Arc4-Arc5,320000,Yes,30000-75000,480,Rostec/NTK,State,,,
 ARC-PORT-032,Vardo Harbor,ARC-CITY-084,Norway,70.3705,31.1107,NOVAO,9.0,6,1200000,Arc3-Arc4,48000,Yes,12000-32000,165,Vardo Harbor Authority,Municipal,,,
