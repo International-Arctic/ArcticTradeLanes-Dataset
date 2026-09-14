@@ -2,11 +2,11 @@ port_id,port_name,city_id,country,latitude,longitude,unlocode,max_depth_m,berth_
 ARC-PORT-001,Murmansk Commercial Sea Port,ARC-CITY-001,Russia,68.9841,33.0610,RUMMK,14.5,45,19000000,Arc4-Arc7,850000,Yes,25000-80000,2200,Murmansk Commercial Sea Port JSC,Private (SUEK/EuroChem),,,
 ARC-PORT-002,Arkhangelsk Sea Port,ARC-CITY-002,Russia,64.5393,40.5185,RUARH,12.0,28,8500000,Arc3-Arc5,320000,Yes,15000-45000,850,Arkhangelsk Sea Port JSC,State,,,
 ARC-PORT-003,Dudinka Sea Port,ARC-CITY-004,Russia,69.4091,86.1775,RUDUD,13.5,18,12000000,Arc5-Arc7,450000,Yes,35000-75000,420,Norilsk Nickel,Private,,,
-ARC-PORT-004,Sabetta LNG Terminal,ARC-CITY-005,Russia,71.2560,72.0520,RUSBT,15.5,4,30000000,Arc7,120000,Yes,150000-300000,280,Yamal LNG/Novatek,Private,,,
+ARC-PORT-004,Sabetta LNG Terminal,ARC-CITY-005,Russia,71.2804697,72.0611660,RUSBT,15.5,4,30000000,Arc7,120000,Yes,150000-300000,280,Yamal LNG/Novatek,Private,OSM industrial=port way/533105947 Port Sabetta,,2026-09-14
 ARC-PORT-005,Pevek Commercial Port,ARC-CITY-006,Russia,69.7008,170.2700,RUPEV,9.0,8,2500000,Arc4-Arc6,65000,Yes,18000-42000,120,Chukotka Sea Port,State,,,
 ARC-PORT-006,Tiksi Sea Port,ARC-CITY-007,Russia,71.6400,128.8600,RUTIK,8.5,6,1200000,Arc3-Arc5,28000,Yes,12000-28000,85,Tiksi Sea Port,State,,,
-ARC-PORT-007,Dikson Sea Port,ARC-CITY-008,Russia,73.5070,80.5460,RUDIK,7.5,4,800000,Arc3-Arc4,15000,Yes,10000-22000,45,Dikson Sea Port,State,,,
-ARC-PORT-008,Khatanga River Port,ARC-CITY-009,Russia,71.9800,102.4700,RUKHA,6.5,5,600000,Arc3-Arc4,12000,Yes,8000-18000,32,Khatanga Port Authority,State,,,
+ARC-PORT-007,Dikson Sea Port,ARC-CITY-008,Russia,73.5043654,80.5151725,RUDIK,7.5,4,800000,Arc3-Arc4,15000,Yes,10000-22000,45,Dikson Sea Port,State,OSM industrial=port way/1080460349 Dikson,,2026-09-14
+ARC-PORT-008,Khatanga River Port,ARC-CITY-009,Russia,71.9841653,102.4753286,RUKHA,6.5,5,600000,Arc3-Arc4,12000,Yes,8000-18000,32,Khatanga Port Authority,State,OSM industrial=port way/1080440778 Khatanga,,2026-09-14
 ARC-PORT-009,Nuuk Port,ARC-CITY-010,Greenland,64.1727800,-51.7225536,GLGOH,12.0,15,3500000,None,180000,Yes,20000-55000,380,Royal Arctic Line,State-owned,overpass:OSM harbour node/995384594 Port of Nuuk,90,2026-09-09
 ARC-PORT-010,Sisimiut Port,ARC-CITY-011,Greenland,66.9400725,-53.6749927,GLJNS,10.0,8,1200000,None,65000,Yes,12000-32000,145,Royal Arctic Line,State-owned,,,2026-09-08
 ARC-PORT-011,Ilulissat Port,ARC-CITY-012,Greenland,69.2241501,-51.0988283,GLJAV,9.5,6,800000,None,45000,Yes,10000-28000,95,Royal Arctic Line,State-owned,overpass:OSM harbour node/13472302840 Iliuissat,90,2026-09-09
