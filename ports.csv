@@ -22,7 +22,7 @@ ARC-PORT-020,Churchill Port,ARC-CITY-021,Canada,58.7759414,-94.1944813,CACHV,9.5
 ARC-PORT-021,Iqaluit Deep Sea Port,ARC-CITY-022,Canada,63.7230185,-68.5226163,CAIQL,7.5,4,450000,Arc3,28000,Yes,18000-42000,55,Nunavut Sealink and Supply,State,overpass:OSM industrial=port way/1276081762 Iqaluit,90,2026-09-09
 ARC-PORT-022,Tuktoyaktuk Port,ARC-CITY-033,Canada,69.4457,-133.0360,CATUK,6.5,3,280000,Arc3-Arc4,18000,Yes,12000-28000,32,Inuvialuit Regional Corporation,Indigenous,,,
 ARC-PORT-023,Valdez Marine Terminal,ARC-CITY-032,USA,61.0831733,-146.3817280,USVAD,20.0,4,75000000,None,850000,Yes,55000-125000,680,Alyeska Pipeline Service Company,Private,,,2026-09-08
-ARC-PORT-024,Prudhoe Bay Oil Terminal,ARC-CITY-029,USA,70.2554,-148.3816,USUUD,14.0,2,45000000,Arc4-Arc5,450000,Yes,35000-80000,245,BP/ConocoPhillips/ExxonMobil,Private,,,
+ARC-PORT-024,Prudhoe Bay Oil Terminal,ARC-CITY-029,USA,70.335833333333,-148.36222222222,USUUD,14.0,2,45000000,Arc4-Arc5,450000,Yes,35000-80000,245,BP/ConocoPhillips/ExxonMobil,Private,"wikidata.org/wiki/Q49388893 P625 Prudhoe Bay (waterbody, not CDP) 70.335833333333,-148.36222222222; GIS quality 2026-09-14 densify off ARC-CITY-029 settlement centroid (~9km N toward Beaufort); no OSM West Dock pier found",90,2026-09-14
 ARC-PORT-025,Port of Anchorage,ARC-CITY-030,USA,61.2387,-149.9076,USANC,13.5,5,6500000,Arc3,185000,Yes,28000-72000,420,Port of Anchorage,Municipal,,,
 ARC-PORT-026,Nome Harbor,ARC-CITY-034,USA,64.4960224,-165.4376724,USOME,7.5,3,320000,Arc3,15000,Yes,10000-25000,85,Nome Port Commission,Municipal,overpass:OSM pier way/336012429 Nome Harbor,90,2026-09-09
 ARC-PORT-027,Kemi Port,ARC-CITY-036,Finland,65.6747392,24.5852607,FIKEM,10.5,8,4800000,Arc4,110000,Yes,18000-42000,385,Kemi Port Authority,State-owned,,,2026-09-08
