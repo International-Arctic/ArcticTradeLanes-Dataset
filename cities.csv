@@ -45,7 +45,7 @@ ARC-CITY-045,Kautokeino,Norway,Finnmark,69.0115,23.0412,1200,45000000,NULL,"Sami
 ARC-CITY-046,Salekhard,Russia,Yamalo-Nenets Autonomous Okrug,66.5308,66.6019,47800,1250000000,NULL,"Natural Gas,Administration,Transport","Gazprom,Russian Government",,,
 ARC-CITY-047,Novy Urengoy,Russia,Yamalo-Nenets Autonomous Okrug,66.0833,76.6333,118000,2800000000,NULL,Natural Gas Production,"Gazprom,Rosneft",,,
 ARC-CITY-048,Nadym,Russia,Yamalo-Nenets Autonomous Okrum,65.5333,72.5167,45000,850000000,NULL,Natural Gas Production,Gazprom,,,
-ARC-CITY-049,Yamburg,Russia,Yamalo-Nenets Autonomous Okrug,67.9240,74.4980,5800,420000000,NULL,Natural Gas Production,Gazprom,,,
+ARC-CITY-049,Yamburg,Russia,Yamalo-Nenets Autonomous Okrug,67.9250,74.9241,5800,420000000,NULL,Natural Gas Production,Gazprom,OSM way/136398746 (Yamburg settlement) ; Wikidata Q1679866 67.9167/74.85 ; gis-latfix-1451 moved off Ob Bay water 67.924/74.498,80,2026-10-05
 ARC-CITY-050,Bovanenkovo,Russia,Yamalo-Nenets Autonomous Okrug,70.4051,68.3431,12000,650000000,NULL,"Natural Gas Production,Airport",Gazprom,,,
 ARC-CITY-051,Grays Bay (port site),Canada,Nunavut (Kitikmeot),67.8167,-111.0000,0,NULL,NULL,"Deep-water port development,Critical minerals","West Kitikmeot Resources, Kitikmeot Inuit Association, ATCO","wikidata.org/wiki/Q5598339 P625 67.8167,-111 (bay in Nunavut); OSM Nominatim relation/13884530 Grays Bay natural=bay center 67.7938459,-111.0127848 corroboration (PORT-052 pin); GIS quality densify 2026-09-23 ~14:27 MSK gis-densify-1427 (off soft 67.8700,-110.9200); DISTINCT from ARC-PORT-052 ~2.60 km",88,2026-09-23
 ARC-CITY-052,Qaqortoq,Greenland,Southern Greenland (Kujalleq),60.7187,-46.0349,3100,,,"Fishing,Port services,Marine logistics",Royal Arctic Line,,,
