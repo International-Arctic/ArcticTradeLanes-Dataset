@@ -9,9 +9,9 @@ ARC-ICE-007,Vaygach,Atomflot,Russia,Arc9/Polar Class 1,35000,149.7,29.2,9.0,1990
 ARC-ICE-008,50 Let Pobedy,Atomflot,Russia,Arc9/Polar Class 1,55000,159.6,30.0,11.0,2007,21,70000,High Arctic Expeditions,320000-450000,Year-round
 ARC-ICE-009,Yamal,Atomflot,Russia,Arc9/Polar Class 1,55000,150.0,30.0,11.0,1992,20.6,68000,NSR and Tourism,280000-400000,Year-round
 ARC-ICE-010,Ob,FSUE Rosmorport,Russia,Arc7,25700,142.0,27.8,8.7,2019,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
-ARC-ICE-011,Novorossiysk,FSUE Rosmorport,Russia,Arc7,18000,119.8,27.5,8.5,2016,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
-ARC-ICE-012,Vladivostok,FSUE Rosmorport,Russia,Arc7,18000,142.0,27.8,8.7,2019,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
-ARC-ICE-013,Murmansk,FSUE Rosmorport,Russia,Arc7,18000,142.0,27.8,8.7,2020,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-011,Novorossiysk,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2016,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-012,Vladivostok,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2015,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
+ARC-ICE-013,Murmansk,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2015,17,45000,Gulf of Finland and Baltic,120000-180000,Year-round
 ARC-ICE-014,Ilya Muromets,Northern Fleet,Russia,Arc7,6400,95.0,22.0,7.0,2017,15,28000,Coastal and River Operations,80000-120000,Year-round
 ARC-ICE-015,Yevpaty Kolovrat,Northern Fleet,Russia,Arc7,6400,95.0,22.0,7.0,2018,15,28000,Coastal and River Operations,80000-120000,Year-round
 ARC-ICE-016,CCGS Louis S. St-Laurent,Canadian Coast Guard,Canada,Polar Class 2,20000,119.8,24.4,9.9,1969,16,42000,Northwest Passage and Eastern Arctic,180000-280000,Year-round
