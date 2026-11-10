@@ -42,7 +42,7 @@ ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,Chin
 ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Polar Class 3,13200,167.0,22.6,8.0,1993,17,38000,Antarctic and Arctic Research,85000-130000,Year-round
 ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,Polar Class 2,14116,117.9,25.0,10.5,1982,15,19000,Arctic and Antarctic Research,90000-140000,Year-round
 ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,"[gis-ice043-1535 DUPLICATE QUARANTINE: same Swedish icebreaker Oden as ARC-ICE-033 (SMA Polar Class 2, built 1988); vessel_name already declared same-as; build_atlas drops pin via ATL_ICE_SAME_AS_DROP; row kept for provenance] Arctic Research",120000-180000,Year-round
-ARC-ICE-044,Kapitan Khlebnikov,Quark Expeditions,Russia,Arc4,14700,123.0,26.0,8.5,1981,14,28000,Tourism and Expedition,180000-280000,May-Sept
+ARC-ICE-044,Kapitan Khlebnikov,FSUE Rosmorport (Far East basin branch),Russia,Arc4,18264,129.1,26.75,8.5,1981,14,28000,Tourism and Expedition,180000-280000,May-Sept
 ARC-ICE-045,Kapitan Dranitsyn,Atomflot (charter),Russia,Arc5,13600,122.9,26.0,8.5,1980,15,30000,Tourism and Support,150000-220000,May-Oct
 ARC-ICE-046,I/B Tor Viking II,Viking Supply Ships,Sweden,Arc4,14700,93.0,20.0,7.5,2000,15,20000,Baltic and North Sea Operations,95000-140000,Year-round
 ARC-ICE-047,I/B Balder Viking,Viking Supply Ships,Sweden,Arc4,14700,93.0,20.0,7.5,2000,15,20000,Baltic and North Sea Operations,95000-140000,Year-round
