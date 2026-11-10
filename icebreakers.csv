@@ -38,7 +38,7 @@ ARC-ICE-036,Ale,Swedish Maritime Administration,Sweden,Arc4,10500,81.0,19.0,6.5,
 ARC-ICE-037,KV Svalbard,Norwegian Coast Guard,Norway,Polar Class 3,9000,103.7,19.1,6.5,2002,16.5,25000,Svalbard and Barents Sea,85000-130000,Year-round
 ARC-ICE-038,MSV Nordica,Arctia Oy (Finnish),Finland,Arc4,15000,116.0,26.0,7.9,1994,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
 ARC-ICE-039,MSV Fennica,Arctia Oy (Finnish),Finland,Arc4,15000,116.0,26.0,7.9,1993,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
-ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,China,Polar Class 3,15000,122.5,22.3,8.3,2019,15,35000,Antarctic and Arctic Research,95000-150000,Year-round
+ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,China,Polar Class 3,15000,122.5,22.3,8.3,2019,15,20000,Antarctic and Arctic Research,95000-150000,Year-round
 ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Polar Class 3,13200,167.0,22.6,8.0,1993,17,38000,Antarctic and Arctic Research,85000-130000,Year-round
 ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,Polar Class 2,14116,117.9,25.0,10.5,1982,15,19000,Arctic and Antarctic Research,90000-140000,Year-round
 ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,"[gis-ice043-1535 DUPLICATE QUARANTINE: same Swedish icebreaker Oden as ARC-ICE-033 (SMA Polar Class 2, built 1988); vessel_name already declared same-as; build_atlas drops pin via ATL_ICE_SAME_AS_DROP; row kept for provenance] Arctic Research",120000-180000,Year-round
