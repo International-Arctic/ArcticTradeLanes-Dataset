@@ -26,18 +26,18 @@ ARC-ICE-024,USCGC Polar Sea,US Coast Guard,USA,Polar Class 1,45000,122.0,25.5,9.
 ARC-ICE-025,USCGC Healy,US Coast Guard,USA,Polar Class 2,22371,128.0,25.0,8.9,1999,17,37000,Arctic Research and Operations,150000-220000,Year-round
 ARC-ICE-026,USCGC Mackinaw,US Coast Guard,USA,Arc4,12500,73.0,18.0,6.5,2005,14,18000,Great Lakes and Coastal,85000-120000,Year-round
 ARC-ICE-027,Polaris,Arctia Oy,Finland,Arc4,19000,110.0,24.0,8.0,2016,16,20000,Baltic Sea and Gulf of Bothnia,95000-140000,Year-round
-ARC-ICE-028,Voima,Arctia Oy,Finland,Arc4,10500,83.5,19.4,6.5,1954,14,12000,Baltic Sea (port operations),65000-95000,Year-round
-ARC-ICE-029,Urho,Arctia Oy,Finland,Arc4,15700,104.6,23.8,7.5,1975,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
-ARC-ICE-030,Sisu,Arctia Oy,Finland,Arc4,15700,104.6,23.8,7.5,1976,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
-ARC-ICE-031,Otso,Arctia Oy,Finland,Arc4,15700,99.1,24.2,8.0,1986,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
-ARC-ICE-032,Kontio,Arctia Oy,Finland,Arc4,15700,99.1,24.2,8.0,1987,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
+ARC-ICE-028,Voima,Arctia Oy,Finland,Arc4,10200,83.5,19.4,7.0,1954,14,12000,Baltic Sea (port operations),65000-95000,Year-round
+ARC-ICE-029,Urho,Arctia Oy,Finland,Arc4,16200,104.6,23.8,8.3,1975,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
+ARC-ICE-030,Sisu,Arctia Oy,Finland,Arc4,16200,104.6,23.8,8.3,1976,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
+ARC-ICE-031,Otso,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1986,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
+ARC-ICE-032,Kontio,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1987,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
 ARC-ICE-033,Oden,Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,Arctic Research and Operations,120000-180000,Year-round
 ARC-ICE-034,Atle,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1974,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
 ARC-ICE-035,Ymer,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1977,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
 ARC-ICE-036,Ale,Swedish Maritime Administration,Sweden,Arc4,10500,81.0,19.0,6.5,1973,14,15000,Coastal and Port Operations,65000-95000,Year-round
 ARC-ICE-037,KV Svalbard,Norwegian Coast Guard,Norway,Polar Class 3,9000,103.7,19.1,6.5,2002,16.5,25000,Svalbard and Barents Sea,85000-130000,Year-round
-ARC-ICE-038,MSV Nordica,Arctia Oy (Finnish),Finland,Arc4,15700,116.0,26.0,8.4,1994,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
-ARC-ICE-039,MSV Fennica,Arctia Oy (Finnish),Finland,Arc4,15700,116.0,26.0,8.4,1993,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
+ARC-ICE-038,MSV Nordica,Arctia Oy (Finnish),Finland,Arc4,15000,116.0,26.0,7.9,1994,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
+ARC-ICE-039,MSV Fennica,Arctia Oy (Finnish),Finland,Arc4,15000,116.0,26.0,7.9,1993,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
 ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,China,Polar Class 3,15000,122.5,22.3,8.3,2019,15,35000,Antarctic and Arctic Research,95000-150000,Year-round
 ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Polar Class 3,13200,167.0,22.6,8.0,1993,17,38000,Antarctic and Arctic Research,85000-130000,Year-round
 ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,Polar Class 2,13200,117.9,25.0,10.5,1982,15,35000,Arctic and Antarctic Research,90000-140000,Year-round
