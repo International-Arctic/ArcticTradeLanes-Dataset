@@ -43,7 +43,7 @@ ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Po
 ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,Polar Class 2,14116,117.9,25.0,10.5,1982,15,19000,Arctic and Antarctic Research,90000-140000,Year-round
 ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,"[gis-ice043-1535 DUPLICATE QUARANTINE: same Swedish icebreaker Oden as ARC-ICE-033 (SMA Polar Class 2, built 1988); vessel_name already declared same-as; build_atlas drops pin via ATL_ICE_SAME_AS_DROP; row kept for provenance] Arctic Research",120000-180000,Year-round
 ARC-ICE-044,Kapitan Khlebnikov,FSUE Rosmorport (Far East basin branch),Russia,Arc4,18264,129.1,26.75,8.5,1981,14,28000,Tourism and Expedition,180000-280000,May-Sept
-ARC-ICE-045,Kapitan Dranitsyn,Atomflot (charter),Russia,Arc5,13600,122.9,26.0,8.5,1980,15,30000,Tourism and Support,150000-220000,May-Oct
+ARC-ICE-045,Kapitan Dranitsyn,FSUE Rosmorport (Arctic basin branch),Russia,Arc5,18264,122.5,26.5,8.5,1980,15,30000,Tourism and Support,150000-220000,May-Oct
 ARC-ICE-046,CCGS Vincent Massey (ex Tor Viking II),Canadian Coast Guard,Sweden,Arc4,13652,83.7,18.0,7.2,2000,15,11000,Baltic and North Sea Operations,95000-140000,Year-round
 ARC-ICE-047,CCGS Jean Goodwill (ex Balder Viking),Canadian Coast Guard,Sweden,Arc4,13652,83.7,18.0,7.2,2000,15,11000,Baltic and North Sea Operations,95000-140000,Year-round
 ARC-ICE-048,CCGS Captain Molly Kool (ex Vidar Viking),Canadian Coast Guard,Sweden,Arc4,13440,83.7,18.0,7.2,2001,15,11000,Baltic and North Sea Operations,95000-140000,Year-round
