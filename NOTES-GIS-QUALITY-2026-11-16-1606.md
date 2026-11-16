@@ -10,3 +10,4 @@ Sources: designer KB Vympel press release 2024-07-01, https://vympel.ru/press-ce
 - length 95.0 -> 82.0, beam 22.0 -> 19.0, draft 7.0 -> 4.6 m; speed 15 -> 14 kn; range 28000 -> 7600 nm; year_built 2018 -> 2024 (delivery)
 - power_kw 6400 -> NULL (copied value, no source; references give 3 x 3.5 MW diesel generators, not a propulsion rating)
 - Flagged, left: primary_service_route "Coastal and River Operations" generic; charter rate unsourced (naval vessel). Map anchor not changed (no geometry in this cycle); its anchor region should be checked against the Kamchatka base in a future gated rebuild.
+- Map follow-up: live atlas anchors ARC-ICE-015 at [33.06, 68.98] (Kola Bay / Murmansk area, from the old "Northern Fleet" assumption, position_quality route_anchor). The official base is Petropavlovsk-Kamchatsky; moving the anchor is a geometry change and needs a gated atlas rebuild — not done this cycle.
