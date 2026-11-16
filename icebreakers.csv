@@ -31,7 +31,7 @@ ARC-ICE-029,Urho,Arctia Oy,Finland,Arc4,16200,104.6,23.8,8.3,1975,16,18000,Balti
 ARC-ICE-030,Sisu,Arctia Oy,Finland,Arc4,16200,104.6,23.8,8.3,1976,16,18000,Baltic Sea and Gulf of Finland,80000-120000,Year-round
 ARC-ICE-031,Otso,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1986,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
 ARC-ICE-032,Kontio,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1987,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
-ARC-ICE-033,Oden,Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,Arctic Research and Operations,120000-180000,Year-round
+ARC-ICE-033,Oden,Swedish Maritime Administration,Sweden,GL 100 A5 ARC3,18000,107.8,31.2,8.5,1988,17,35000,Arctic Research and Operations,120000-180000,Year-round
 ARC-ICE-034,Atle,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),16240,109.5,23.8,8.3,1974,18,18000,Baltic Sea and Kattegat,80000-120000,Year-round
 ARC-ICE-035,Ymer,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),16240,104.7,23.8,8.3,1977,18,18000,Baltic Sea and Kattegat,80000-120000,Year-round
 ARC-ICE-036,Ale,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),3450,50.8,13.0,5.4,1973,14,15000,Coastal and Port Operations,65000-95000,Year-round
@@ -41,7 +41,7 @@ ARC-ICE-039,MSV Fennica,Arctia Icebreaking Ltd (Arctia Oy),Finland,Polar Class 3
 ARC-ICE-040,R/V Xuelong 2 (Snow Dragon 2),Polar Research Institute of China,China,Polar Class 3,15000,122.5,22.3,8.3,2019,15,20000,Antarctic and Arctic Research,95000-150000,Year-round
 ARC-ICE-041,R/V Xuelong (Snow Dragon),Polar Research Institute of China,China,Polar Class 3,13200,167.0,22.6,9.0,1993,17,20000,Antarctic and Arctic Research,85000-130000,Year-round
 ARC-ICE-042,RV Polarstern,Alfred Wegener Institute,Germany,GL ARC 3 (Germanischer Lloyd 100 A5 ARC 3),14116,117.9,25.0,11.2,1982,15,19000,Arctic and Antarctic Research,90000-140000,Year-round
-ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,"[gis-ice043-1535 DUPLICATE QUARANTINE: same Swedish icebreaker Oden as ARC-ICE-033 (SMA Polar Class 2, built 1988); vessel_name already declared same-as; build_atlas drops pin via ATL_ICE_SAME_AS_DROP; row kept for provenance] Arctic Research",120000-180000,Year-round
+ARC-ICE-043,I/B Oden (same as ARC-ICE-033),Swedish Maritime Administration,Sweden,GL 100 A5 ARC3,18000,107.8,31.2,8.5,1988,17,35000,"[gis-ice043-1535 DUPLICATE QUARANTINE: same Swedish icebreaker Oden as ARC-ICE-033 (SMA Polar Class 2, built 1988); vessel_name already declared same-as; build_atlas drops pin via ATL_ICE_SAME_AS_DROP; row kept for provenance] Arctic Research",120000-180000,Year-round
 ARC-ICE-044,Kapitan Khlebnikov,FSUE Rosmorport (Far East basin branch),Russia,Arc4,18264,129.1,26.75,8.5,1981,14,28000,Tourism and Expedition,180000-280000,May-Sept
 ARC-ICE-045,Kapitan Dranitsyn,FSUE Rosmorport (Arctic basin branch),Russia,Arc5,18264,122.5,26.5,8.5,1980,15,30000,Tourism and Support,150000-220000,May-Oct
 ARC-ICE-046,CCGS Vincent Massey (ex Tor Viking II),Canadian Coast Guard,Sweden,Arc4,13652,83.7,18.0,7.2,2000,15,11000,Baltic and North Sea Operations,95000-140000,Year-round
