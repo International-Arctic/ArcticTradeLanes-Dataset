@@ -32,8 +32,8 @@ ARC-ICE-030,Sisu,Arctia Oy,Finland,Arc4,16200,104.6,23.8,8.3,1976,16,18000,Balti
 ARC-ICE-031,Otso,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1986,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
 ARC-ICE-032,Kontio,Arctia Oy,Finland,Arc4,15000,99.0,24.2,8.0,1987,16,18000,Baltic Sea and Gulf of Bothnia,85000-125000,Year-round
 ARC-ICE-033,Oden,Swedish Maritime Administration,Sweden,Polar Class 2,18000,107.8,31.0,8.5,1988,16,35000,Arctic Research and Operations,120000-180000,Year-round
-ARC-ICE-034,Atle,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1974,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
-ARC-ICE-035,Ymer,Swedish Maritime Administration,Sweden,Arc4,15700,100.6,23.4,8.2,1977,16,18000,Baltic Sea and Kattegat,80000-120000,Year-round
+ARC-ICE-034,Atle,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),16240,109.5,23.8,8.3,1974,18,18000,Baltic Sea and Kattegat,80000-120000,Year-round
+ARC-ICE-035,Ymer,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),16240,104.7,23.8,8.3,1977,18,18000,Baltic Sea and Kattegat,80000-120000,Year-round
 ARC-ICE-036,Ale,Swedish Maritime Administration,Sweden,1A Super (Finnish-Swedish ice class),3450,50.8,13.0,5.4,1973,14,15000,Coastal and Port Operations,65000-95000,Year-round
 ARC-ICE-037,KV Svalbard,Norwegian Coast Guard,Norway,DNV POLAR-10 Icebreaker,10000,103.7,19.1,6.5,2002,18,25000,Svalbard and Barents Sea,85000-130000,Year-round
 ARC-ICE-038,MSV Nordica,Arctia Icebreaking Ltd (Arctia Oy),Finland,Polar Class 3,15000,116.0,26.0,7.9,1994,16,22000,Baltic Sea and International Charter,85000-125000,Year-round
