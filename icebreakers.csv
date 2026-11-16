@@ -13,7 +13,7 @@ ARC-ICE-011,Novorossiysk,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5
 ARC-ICE-012,Vladivostok,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2015,17,11000,Gulf of Finland and Baltic,120000-180000,Year-round
 ARC-ICE-013,Murmansk,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2015,17,11000,Gulf of Finland and Baltic,120000-180000,Year-round
 ARC-ICE-014,Ilya Muromets,Northern Fleet,Russia,Icebreaker6,6400,84.0,20.0,7.0,2017,15,12000,Coastal and River Operations,80000-120000,Year-round
-ARC-ICE-015,Yevpaty Kolovrat,Northern Fleet,Russia,Arc7,6400,95.0,22.0,7.0,2018,15,28000,Coastal and River Operations,80000-120000,Year-round
+ARC-ICE-015,Yevpaty Kolovrat,Russian Navy (Pacific Fleet),Russia,Icebreaker6,NULL,82.0,19.0,4.6,2024,14,7600,Coastal and River Operations,80000-120000,Year-round
 ARC-ICE-016,CCGS Louis S. St-Laurent,Canadian Coast Guard,Canada,Arctic Class 4,20142,119.6,24.4,9.9,1969,16,28000,Northwest Passage and Eastern Arctic,180000-280000,Year-round
 ARC-ICE-017,CCGS Terry Fox,Canadian Coast Guard,Canada,Arctic Class 4,17300,88.0,17.8,8.3,1983,16,20000,Northwest Passage and Hudson Bay,150000-220000,Year-round
 ARC-ICE-018,CCGS Henry Larsen,Canadian Coast Guard,Canada,Arctic Class 4,16080,99.8,19.6,7.2,1987,16,20000,Eastern Arctic and Newfoundland,120000-180000,Year-round
