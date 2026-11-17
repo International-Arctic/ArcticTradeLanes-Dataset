@@ -2,17 +2,17 @@ tanker_id,vessel_name,owner_operator,country,ice_class,deadweight_tonnage,cargo_
 ARC-TNK-001,Christophe de Margerie,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,42,120000-180000,1.8
 ARC-TNK-002,Boris Vilkitsky,Dynagas-CLNG-Sinotrans JV (Dynagas 49%; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,38,120000-180000,1.8
 ARC-TNK-003,Fedor Litke,Dynagas-CLNG-Sinotrans JV (Dynagas 49%; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,40,120000-180000,1.8
-ARC-TNK-004,Georgiy Ushakov,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,45,120000-180000,1.8
-ARC-TNK-005,Yakov Gakkel,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,44,120000-180000,1.8
-ARC-TNK-006,Vladimir Voronin,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,42,120000-180000,1.8
+ARC-TNK-004,Georgiy Ushakov,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,45,120000-180000,1.8
+ARC-TNK-005,Yakov Gakkel,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,44,120000-180000,1.8
+ARC-TNK-006,Vladimir Voronin,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,42,120000-180000,1.8
 ARC-TNK-007,Georgiy Sedov,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,43,120000-180000,1.8
 ARC-TNK-008,Yermak,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2020,Sabetta-Europe/Asia,41,120000-180000,1.8
 ARC-TNK-009,Vladimir Rusanov,Dynagas (Novatek charter),Greece,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Asia,38,115000-175000,1.9
 ARC-TNK-010,Ob River,Dynagas (Novatek charter),Greece,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Asia,36,115000-175000,1.9
-ARC-TNK-011,Eduard Toll,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe,35,110000-170000,1.9
-ARC-TNK-012,Rudolf Samoylovich,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe,34,110000-170000,1.9
-ARC-TNK-013,Nikolay Yevgenov,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,37,110000-170000,1.9
-ARC-TNK-014,Nikolay Zubov,Teekay (Novatek charter),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,38,110000-170000,1.9
+ARC-TNK-011,Eduard Toll,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Europe,35,110000-170000,1.9
+ARC-TNK-012,Rudolf Samoylovich,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2018,Sabetta-Europe,34,110000-170000,1.9
+ARC-TNK-013,Nikolay Yevgenov,Seapeak-CLNG JV (ex-Teekay LNG; chartered to Yamal LNG),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,37,110000-170000,1.9
+ARC-TNK-014,Nikolay Zubov,Dynagas-CLNG-Sinotrans JV (Dynagas 49%; chartered to Yamal LNG),Canada,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe,38,110000-170000,1.9
 ARC-TNK-015,Vladimir Tikhonov,MOL (Novatek charter),Japan,Arc7,96800,LNG,299.0,50.0,12.0,2021,Sabetta-Asia,32,120000-180000,1.8
 ARC-TNK-016,Arc7 LNG Carrier-016,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2024,Arctic LNG 2,15,125000-190000,1.9
 ARC-TNK-017,Arc7 LNG Carrier-017,Zvezda Shipyard (Novatek),Russia,Arc7,98000,LNG,300.0,50.0,12.0,2025,Arctic LNG 2,8,125000-190000,1.9
