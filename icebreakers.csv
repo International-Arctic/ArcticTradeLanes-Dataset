@@ -1,8 +1,8 @@
 icebreaker_id,vessel_name,owner_operator,country,ice_class,power_kw,length_m,beam_m,draft_m,year_built,service_speed_kn,operational_range_nm,primary_service_route,charter_rate_usd_per_day,availability_months
-ARC-ICE-001,NS Arktika,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2020,22,75000,NSR Western and Eastern,350000-500000,Year-round
-ARC-ICE-002,NS Sibir,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2022,22,75000,NSR Western and Eastern,350000-500000,Year-round
-ARC-ICE-003,NS Ural,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2022,22,75000,NSR Full Transit,350000-500000,Year-round
-ARC-ICE-004,NS Yakutia,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2024,22,75000,NSR Eastern Section,350000-500000,Year-round
+ARC-ICE-001,NS Arktika,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2020,22,NULL,NSR Western and Eastern,350000-500000,Year-round
+ARC-ICE-002,NS Sibir,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2022,22,NULL,NSR Western and Eastern,350000-500000,Year-round
+ARC-ICE-003,NS Ural,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2022,22,NULL,NSR Full Transit,350000-500000,Year-round
+ARC-ICE-004,NS Yakutia,Atomflot,Russia,Icebreaker9,60000,173.3,34.0,10.5,2024,22,NULL,NSR Eastern Section,350000-500000,Year-round
 ARC-ICE-005,NS Rossiya (Project 10510 Leader),Atomflot,Russia,Arc9/Polar Class 1,120000,209.2,47.7,13.0,2029,23,NULL,Arctic High Latitudes,NULL,Year-round (planned)
 ARC-ICE-006,Taymyr,Atomflot,Russia,Arc9/Polar Class 1,32500,151.8,29.2,8.1,1989,20.2,65000,Yenisei River and Western NSR,280000-400000,Year-round
 ARC-ICE-007,Vaygach,Atomflot,Russia,Arc9/Polar Class 1,32500,151.8,29.2,8.1,1990,20.2,65000,Ob Bay and Western NSR,280000-400000,Year-round
