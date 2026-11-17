@@ -14,12 +14,12 @@ ARC-ICE-012,Vladivostok,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,
 ARC-ICE-013,Murmansk,FSUE Rosmorport,Russia,Icebreaker6,18000,119.8,27.5,8.5,2015,17,11000,Gulf of Finland and Baltic,120000-180000,Year-round
 ARC-ICE-014,Ilya Muromets,Northern Fleet,Russia,Icebreaker6,6400,84.0,20.0,7.0,2017,15,12000,Coastal and River Operations,80000-120000,Year-round
 ARC-ICE-015,Yevpaty Kolovrat,Russian Navy (Pacific Fleet),Russia,Icebreaker6,NULL,82.0,19.0,4.6,2024,14,7600,Coastal and River Operations,80000-120000,Year-round
-ARC-ICE-016,CCGS Louis S. St-Laurent,Canadian Coast Guard,Canada,Arctic Class 4,20142,119.6,24.4,9.9,1969,16,28000,Northwest Passage and Eastern Arctic,180000-280000,Year-round
+ARC-ICE-016,CCGS Louis S. St-Laurent,Canadian Coast Guard,Canada,Arctic Class 4,20142,119.6,24.4,9.9,1969,15,28000,Northwest Passage and Eastern Arctic,180000-280000,Year-round
 ARC-ICE-017,CCGS Terry Fox,Canadian Coast Guard,Canada,Arctic Class 4,17300,88.0,17.8,8.3,1983,16,20000,Northwest Passage and Hudson Bay,150000-220000,Year-round
-ARC-ICE-018,CCGS Henry Larsen,Canadian Coast Guard,Canada,Arctic Class 4,16080,99.8,19.6,7.2,1987,16,20000,Eastern Arctic and Newfoundland,120000-180000,Year-round
-ARC-ICE-019,CCGS Des Groseilliers,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.8,7.4,1982,16.5,27000,Eastern Arctic and St. Lawrence,120000-180000,Year-round
-ARC-ICE-020,CCGS Pierre Radisson,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.2,7.2,1978,16.7,15000,St. Lawrence and Eastern Arctic,120000-180000,Year-round
-ARC-ICE-021,CCGS Amundsen,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.5,7.2,1979,16,35000,Research and Arctic Operations,110000-160000,Year-round
+ARC-ICE-018,CCGS Henry Larsen,Canadian Coast Guard,Canada,Arctic Class 4,16080,99.8,19.6,7.2,1987,13.5,20000,Eastern Arctic and Newfoundland,120000-180000,Year-round
+ARC-ICE-019,CCGS Des Groseilliers,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.8,7.4,1982,12,27000,Eastern Arctic and St. Lawrence,120000-180000,Year-round
+ARC-ICE-020,CCGS Pierre Radisson,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.2,7.2,1978,14,15000,St. Lawrence and Eastern Arctic,120000-180000,Year-round
+ARC-ICE-021,CCGS Amundsen,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.5,7.2,1979,14,35000,Research and Arctic Operations,110000-160000,Year-round
 ARC-ICE-022,CCGS Arpatuuq (Polar Icebreaker),Canadian Coast Guard,Canada,Polar Class 2,NULL,139.0,NULL,NULL,2030,18,NULL,Arctic Operations,NULL,Year-round (planned)
 ARC-ICE-023,USCGC Polar Star,US Coast Guard,USA,Polar Class 1,55928,122.0,25.5,9.4,1976,18,28275,Antarctic and Arctic Operations,200000-300000,Year-round
 ARC-ICE-024,USCGC Polar Sea,US Coast Guard,USA,Polar Class 1,55928,122.0,25.5,9.4,1977,18,28275,Decommissioned (USCG: sister ship POLAR SEA now decommissioned),NULL,NULL
