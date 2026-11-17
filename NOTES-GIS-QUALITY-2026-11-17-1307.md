@@ -10,3 +10,4 @@ Health: no ATL/UM drift (ATL home c24e5823, atlas.3996 6f1a2927, 1317 features, 
 
 ## Flagged
 - ice_class "Arc9/Polar Class 1": RS notation KM(★) Icebreaker9 seen only in secondary sources; not changed.
+- ARC-ICE-008 50 Let Pobedy: power_kw 55000 -> 54000 and operational_range_nm 70000 -> NULL, same Rosatomflot table (LOA 159.6, beam 30.0 verified). Speed 21 vs table 19.0 remains flagged from 2026-11-16 (DGZ 21).
