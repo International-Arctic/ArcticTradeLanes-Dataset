@@ -1,7 +1,7 @@
 tanker_id,vessel_name,owner_operator,country,ice_class,deadweight_tonnage,cargo_type,length_m,beam_m,draft_m,year_built,typical_arctic_route,annual_arctic_voyages,charter_rate_usd_per_day,insurance_premium_multiplier
 ARC-TNK-001,Christophe de Margerie,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,42,120000-180000,1.8
-ARC-TNK-002,Boris Vilkitsky,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,38,120000-180000,1.8
-ARC-TNK-003,Fedor Litke,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,40,120000-180000,1.8
+ARC-TNK-002,Boris Vilkitsky,Dynagas-CLNG-Sinotrans JV (Dynagas 49%; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,38,120000-180000,1.8
+ARC-TNK-003,Fedor Litke,Dynagas-CLNG-Sinotrans JV (Dynagas 49%; chartered to Yamal LNG),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2017,Sabetta-Europe/Asia,40,120000-180000,1.8
 ARC-TNK-004,Georgiy Ushakov,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,45,120000-180000,1.8
 ARC-TNK-005,Yakov Gakkel,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,44,120000-180000,1.8
 ARC-TNK-006,Vladimir Voronin,Sovcomflot (Novatek),Russia,Arc7,96800,LNG,299.0,50.0,12.0,2019,Sabetta-Europe/Asia,42,120000-180000,1.8
