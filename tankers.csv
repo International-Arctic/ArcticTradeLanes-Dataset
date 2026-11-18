@@ -25,12 +25,12 @@ ARC-TNK-023,Nordic Bothnia,NORDEN,Danish,Arc4,75000,General Cargo,200.0,32.0,10.
 ARC-TNK-024,Nordic Odin,Pangaea Logistics Solutions (Nordic Bulk Carriers),Danish,Arc4,76180,General Cargo,200.0,32.0,10.5,2015,Arctic Routes,25,45000-75000,1.5
 ARC-TNK-025,Nordic Olympic,Pangaea Logistics Solutions (Nordic Bulk Carriers),Danish,Arc4,76180,General Cargo,200.0,32.0,10.5,2015,Arctic Routes,24,45000-75000,1.5
 ARC-TNK-026,Stena Polaris,Stena Bulk,Sweden,Arc4,65200,Oil Products,183.0,40.0,11.3,2010,Barents Sea Routes,22,55000-85000,1.5
-ARC-TNK-027,Stena Arctica,Stena Bulk,Sweden,Arc4,65000,Oil Products,183.0,32.0,11.0,2011,Barents Sea Routes,20,55000-85000,1.5
+ARC-TNK-027,Stena Arctica,Stena Bulk,Sweden,Arc4,117100,Oil Products,249.8,44.0,15.4,2005,Barents Sea Routes,20,55000-85000,1.5
 ARC-TNK-028,Uikku,Neste Oil,Finland,Arc4,16038,Oil Products,164.4,22.2,9.5,1977,Baltic and Arctic,18,35000-55000,1.6
 ARC-TNK-029,Lunni,Neste Oil,Finland,Arc4,16168,Oil Products,164.4,22.2,9.5,1976,Baltic and Arctic,16,35000-55000,1.6
 ARC-TNK-030,Seival,Varo Energy,Switzerland,Arc4,17000,Oil Products,145.0,22.0,7.8,2006,Baltic and Arctic,14,38000-60000,1.5
-ARC-TNK-031,Thun Liverpool,Erik Thun AB,Sweden,Arc4,16500,Oil Products,144.0,21.5,7.6,2007,Baltic and Arctic,15,38000-60000,1.5
-ARC-TNK-032,Thun London,Erik Thun AB,Sweden,Arc4,16500,Oil Products,144.0,21.5,7.6,2008,Baltic and Arctic,14,38000-60000,1.5
+ARC-TNK-031,Thun Liverpool,Erik Thun AB,Sweden,Arc4,18684,Oil Products,149.8,22.8,9.4,2019,Baltic and Arctic,15,38000-60000,1.5
+ARC-TNK-032,Thun London,Erik Thun AB,Sweden,Arc4,18684,Oil Products,149.8,22.8,9.4,2019,Baltic and Arctic,14,38000-60000,1.5
 ARC-TNK-033,Prospero,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2000,Baltic and Arctic,12,42000-68000,1.4
 ARC-TNK-034,Transpaper,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2001,Baltic and Arctic,11,42000-68000,1.4
 ARC-TNK-035,Timca,Finnlines,Finland,Arc4,28000,Ro-Ro/Containers,180.0,26.0,8.5,2003,Baltic and Arctic,13,42000-68000,1.4
