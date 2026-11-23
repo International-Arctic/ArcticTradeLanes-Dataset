@@ -10,7 +10,7 @@ NO OKF "Øksfjord", subdivision 20 (Finnmark), function 1-3-----, coordinates 70
 Change: unlocode NOOKS -> NOOKF. Coordinates, sources and other fields unchanged.
 
 Earlier code sweeps (11-09, 11-17) only checked whether codes exist or have the port function, so they missed codes that are valid but
-belong to a different place. A name/subdivision cross-check of all 120 coded rows against the UNECE list found this as the only clear
+belong to a different place. A name/subdivision cross-check of all 127 coded rows against the UNECE list found this as the only clear
 Norway mismatch. Flagged only, no change: ARC-PORT-171 Port Elga (Cape Manorsky, Ayano-Maysky district) carries RUVNN "Vanino";
 UNECE has no Elga or Manorsky entry, so blanking it would need a decision under the 11-09 blank-nonexistent rule.
 
