@@ -20,7 +20,7 @@ ARC-ICE-018,CCGS Henry Larsen,Canadian Coast Guard,Canada,Arctic Class 4,16080,9
 ARC-ICE-019,CCGS Des Groseilliers,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.8,7.4,1982,12,27000,Eastern Arctic and St. Lawrence,120000-180000,Year-round
 ARC-ICE-020,CCGS Pierre Radisson,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.2,7.2,1978,14,15000,St. Lawrence and Eastern Arctic,120000-180000,Year-round
 ARC-ICE-021,CCGS Amundsen,Canadian Coast Guard,Canada,Arctic Class 3,10142,98.2,19.5,7.2,1979,14,35000,Research and Arctic Operations,110000-160000,Year-round
-ARC-ICE-022,CCGS Arpatuuq (Polar Icebreaker),Canadian Coast Guard,Canada,Polar Class 2,18000,139.0,NULL,NULL,2030,NULL,NULL,Arctic Operations,NULL,Year-round (planned)
+ARC-ICE-022,CCGS Arpatuuq (Polar Icebreaker),Canadian Coast Guard,Canada,Polar Class 2,18000,138.5,29.4,NULL,2030,NULL,NULL,Arctic Operations,NULL,Year-round (planned)
 ARC-ICE-023,USCGC Polar Star,US Coast Guard,USA,Polar Class 1,55928,122.0,25.5,9.4,1976,18,28275,Antarctic and Arctic Operations,200000-300000,Year-round
 ARC-ICE-024,USCGC Polar Sea,US Coast Guard,USA,Polar Class 1,55928,122.0,25.5,9.4,1977,18,28275,Decommissioned (USCG: sister ship POLAR SEA now decommissioned),NULL,NULL
 ARC-ICE-025,USCGC Healy,US Coast Guard,USA,Polar Class 2,22371,128.0,25.0,8.9,1999,12.5,16000,Arctic Research and Operations,150000-220000,Year-round
