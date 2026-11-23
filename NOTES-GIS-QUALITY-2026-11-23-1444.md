@@ -13,7 +13,7 @@ Health: no drift. ATL home c24e5823, /data/atlas.3996.geojson 6f1a2927 (1317 fea
 
 ## RU blank-unlocode ports: checked against the same live ru.htm, not applied
 - 118 Bukhta Sever, 142 Chaika, 137 Utrenniy, 147 Naiba, 046 Zhelaniye, 047 Nordvik, 048 Wrangel, 049 Franz Josef Land: no UNECE entry.
-- 099 Pevek Cape Nagleynyn: RU PWE Pevek (1--4----) exists, but the terminal is about 40 km west of Pevek town. The code is a city or port-area code, so it is not a clear match. Left empty.
+- 099 Pevek Cape Nagleynyn: RU PWE Pevek (1--4----) exists, but the terminal is about 80 km SW of the ARC-PORT-005 Pevek port pin (great-circle distance between the two pins). The code is a city or port-area code, so it is not a clear match. Left empty.
 - 050 Novaya Zemlya Ports (pin near Belushya Guba): RU BEL "Belushye" (1-------, QQ 9207, no coordinates, no subdivision) is ambiguous. Left empty.
 - 031 and 164 Lavna, 157 Murmansk Arctic Gate: RU MMK Murmansk could apply as the port-area code (001, 035 and 132 already use RUMMK). This is a policy choice, not a location match. Left empty pending a decision.
 
