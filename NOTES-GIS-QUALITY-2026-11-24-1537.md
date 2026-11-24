@@ -14,4 +14,4 @@
 - Quay 5 (rig quay) 15 m is not used because the table note says "7 m from quay, 20 m depth", so it is ambiguous (Offshore Magazine 2017 cites 10-22 m alongside, but that is not official).
 - The record name says "new Ro-Ro facility"; Ro-ro Quay 3 is 12 m. If the record is meant as the Ro-Ro quay only, use 12.0 instead (needs a decision).
 - berth_count 3 vs the official 5 quays (not changed: scope question, same as above).
-- Verified unchanged earlier this cycle: 087 Piteå 11.2 (portofpitea.se), 089 Grundarfjörður 9.5 (grundport.is Berth 1); 088 Skellefteå 12.5 is the new quay depth (partially ready 2026), lead only.
+- Not re-fetched this cycle (record-cited values only; still to verify): 087 Piteå 11.2 (portofpitea.se), 089 Grundarfjörður 9.5 (grundport.is Berth 1). 088 Skellefteå 12.5 is the depth of the new quay (partially ready 2026), so the current operational depth needs checking.
